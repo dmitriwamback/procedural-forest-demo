@@ -1,0 +1,10 @@
+//
+// Created by Dmitri Wamback on 2026-02-01.
+//
+
+#ifndef PROCEDURAL_FORESTS_MODEL_H
+#define PROCEDURAL_FORESTS_MODEL_H
+
+
+
+#endif //PROCEDURAL_FORESTS_MODEL_H
